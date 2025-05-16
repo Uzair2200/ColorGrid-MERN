@@ -75,7 +75,6 @@ The app will be live at:
 ```
 📁 client/    # React + Vite frontend  
 📁 server/    # Express + Socket.IO backend  
-📁 design/    # Starter HTML/CSS files  
 ```
 
 ---
